@@ -1,0 +1,410 @@
+Combining begin. Please wait...
+Now time is:2025/11/24 18:19:17
+ 
+Create .bpw file for you...
+E:\turpan\west\west1_combined\west1_zoom_21.bpw created.
+ 
+Create .vrt file for you...
+Now time is:2025/11/24 18:19:17
+writing vrt file now... please wait...
+writing vrt file 780844 finished.
+writing vrt file 780845 finished.
+writing vrt file 780846 finished.
+writing vrt file 780847 finished.
+writing vrt file 780848 finished.
+writing vrt file 780849 finished.
+writing vrt file 780850 finished.
+writing vrt file 780851 finished.
+writing vrt file 780852 finished.
+writing vrt file 780853 finished.
+writing vrt file 780854 finished.
+writing vrt file 780855 finished.
+writing vrt file 780856 finished.
+writing vrt file 780857 finished.
+writing vrt file 780858 finished.
+writing vrt file 780859 finished.
+writing vrt file 780860 finished.
+writing vrt file 780861 finished.
+writing vrt file 780862 finished.
+writing vrt file 780863 finished.
+writing vrt file 780864 finished.
+writing vrt file 780865 finished.
+writing vrt file 780866 finished.
+writing vrt file 780867 finished.
+writing vrt file 780868 finished.
+writing vrt file 780869 finished.
+writing vrt file 780870 finished.
+writing vrt file 780871 finished.
+writing vrt file 780872 finished.
+writing vrt file 780873 finished.
+writing vrt file 780874 finished.
+writing vrt file 780875 finished.
+writing vrt file 780876 finished.
+writing vrt file 780877 finished.
+writing vrt file 780878 finished.
+writing vrt file 780879 finished.
+writing vrt file 780880 finished.
+writing vrt file 780881 finished.
+writing vrt file 780882 finished.
+writing vrt file 780883 finished.
+writing vrt file 780884 finished.
+writing vrt file 780885 finished.
+writing vrt file 780886 finished.
+writing vrt file 780887 finished.
+writing vrt file 780888 finished.
+writing vrt file 780889 finished.
+writing vrt file 780890 finished.
+writing vrt file 780891 finished.
+writing vrt file 780892 finished.
+writing vrt file 780893 finished.
+writing vrt file 780894 finished.
+writing vrt file 780895 finished.
+writing vrt file 780896 finished.
+writing vrt file 780897 finished.
+writing vrt file 780898 finished.
+writing vrt file 780899 finished.
+writing vrt file 780900 finished.
+writing vrt file 780901 finished.
+writing vrt file 780902 finished.
+writing vrt file 780903 finished.
+writing vrt file 780904 finished.
+writing vrt file 780905 finished.
+writing vrt file 780906 finished.
+writing vrt file 780907 finished.
+writing vrt file 780908 finished.
+writing vrt file 780909 finished.
+writing vrt file 780910 finished.
+writing vrt file 780911 finished.
+writing vrt file 780912 finished.
+writing vrt file 780913 finished.
+writing vrt file 780914 finished.
+writing vrt file 780915 finished.
+writing vrt file 780916 finished.
+writing vrt file 780917 finished.
+writing vrt file 780918 finished.
+writing vrt file 780919 finished.
+writing vrt file 780920 finished.
+writing vrt file 780921 finished.
+writing vrt file 780922 finished.
+writing vrt file 780923 finished.
+writing vrt file 780924 finished.
+writing vrt file 780925 finished.
+writing vrt file 780926 finished.
+writing vrt file 780927 finished.
+writing vrt file 780928 finished.
+writing vrt file 780929 finished.
+writing vrt file 780930 finished.
+writing vrt file 780931 finished.
+writing vrt file 780932 finished.
+writing vrt file 780933 finished.
+writing vrt file 780934 finished.
+writing vrt file 780935 finished.
+writing vrt file 780936 finished.
+writing vrt file 780937 finished.
+writing vrt file 780938 finished.
+writing vrt file 780939 finished.
+writing vrt file 780940 finished.
+writing vrt file 780941 finished.
+writing vrt file 780942 finished.
+writing vrt file 780943 finished.
+writing vrt file 780944 finished.
+writing vrt file 780945 finished.
+writing vrt file 780946 finished.
+writing vrt file 780947 finished.
+writing vrt file 780948 finished.
+writing vrt file 780949 finished.
+writing vrt file 780950 finished.
+writing vrt file 780951 finished.
+writing vrt file 780952 finished.
+writing vrt file 780953 finished.
+writing vrt file 780954 finished.
+writing vrt file 780955 finished.
+writing vrt file 780956 finished.
+writing vrt file 780957 finished.
+writing vrt file 780958 finished.
+writing vrt file 780959 finished.
+writing vrt file 780960 finished.
+writing vrt file 780961 finished.
+writing vrt file 780962 finished.
+writing vrt file 780963 finished.
+writing vrt file 780964 finished.
+writing vrt file 780965 finished.
+writing vrt file 780966 finished.
+writing vrt file 780967 finished.
+writing vrt file 780968 finished.
+writing vrt file 780969 finished.
+writing vrt file 780970 finished.
+writing vrt file 780971 finished.
+writing vrt file 780972 finished.
+writing vrt file 780973 finished.
+writing vrt file 780974 finished.
+writing vrt file 780975 finished.
+writing vrt file 780976 finished.
+writing vrt file 780977 finished.
+writing vrt file 780978 finished.
+writing vrt file 780979 finished.
+writing vrt file 780980 finished.
+writing vrt file 780981 finished.
+writing vrt file 780982 finished.
+writing vrt file 780983 finished.
+writing vrt file 780984 finished.
+writing vrt file 780985 finished.
+writing vrt file 780986 finished.
+writing vrt file 780987 finished.
+writing vrt file 780988 finished.
+writing vrt file 780989 finished.
+writing vrt file 780990 finished.
+writing vrt file 780991 finished.
+writing vrt file 780992 finished.
+writing vrt file 780993 finished.
+writing vrt file 780994 finished.
+writing vrt file 780995 finished.
+writing vrt file 780996 finished.
+writing vrt file 780997 finished.
+writing vrt file 780998 finished.
+writing vrt file 780999 finished.
+writing vrt file 781000 finished.
+writing vrt file 781001 finished.
+writing vrt file 781002 finished.
+writing vrt file 781003 finished.
+writing vrt file 781004 finished.
+writing vrt file 781005 finished.
+writing vrt file 781006 finished.
+writing vrt file 781007 finished.
+writing vrt file 781008 finished.
+writing vrt file 781009 finished.
+writing vrt file 781010 finished.
+writing vrt file 781011 finished.
+writing vrt file 781012 finished.
+writing vrt file 781013 finished.
+writing vrt file 781014 finished.
+writing vrt file 781015 finished.
+writing vrt file 781016 finished.
+writing vrt file 781017 finished.
+writing vrt file 781018 finished.
+writing vrt file 781019 finished.
+writing vrt file 781020 finished.
+writing vrt file 781021 finished.
+writing vrt file 781022 finished.
+writing vrt file 781023 finished.
+writing vrt file 781024 finished.
+writing vrt file 781025 finished.
+writing vrt file 781026 finished.
+writing vrt file 781027 finished.
+writing vrt file 781028 finished.
+writing vrt file 781029 finished.
+writing vrt file 781030 finished.
+writing vrt file 781031 finished.
+writing vrt file 781032 finished.
+writing vrt file 781033 finished.
+writing vrt file 781034 finished.
+writing vrt file 781035 finished.
+writing vrt file 781036 finished.
+writing vrt file 781037 finished.
+writing vrt file 781038 finished.
+writing vrt file 781039 finished.
+writing vrt file 781040 finished.
+writing vrt file 781041 finished.
+writing vrt file 781042 finished.
+writing vrt file 781043 finished.
+writing vrt file 781044 finished.
+writing vrt file 781045 finished.
+writing vrt file 781046 finished.
+writing vrt file 781047 finished.
+writing vrt file 781048 finished.
+writing vrt file 781049 finished.
+writing vrt file 781050 finished.
+writing vrt file 781051 finished.
+writing vrt file 781052 finished.
+writing vrt file 781053 finished.
+writing vrt file 781054 finished.
+writing vrt file 781055 finished.
+writing vrt file 781056 finished.
+writing vrt file 781057 finished.
+writing vrt file 781058 finished.
+writing vrt file 781059 finished.
+writing vrt file 781060 finished.
+writing vrt file 781061 finished.
+writing vrt file 781062 finished.
+writing vrt file 781063 finished.
+writing vrt file 781064 finished.
+writing vrt file 781065 finished.
+writing vrt file 781066 finished.
+writing vrt file 781067 finished.
+writing vrt file 781068 finished.
+writing vrt file 781069 finished.
+writing vrt file 781070 finished.
+writing vrt file 781071 finished.
+writing vrt file 781072 finished.
+writing vrt file 781073 finished.
+writing vrt file 781074 finished.
+writing vrt file 781075 finished.
+writing vrt file 781076 finished.
+writing vrt file 781077 finished.
+writing vrt file 781078 finished.
+writing vrt file 781079 finished.
+writing vrt file 781080 finished.
+writing vrt file 781081 finished.
+writing vrt file 781082 finished.
+writing vrt file 781083 finished.
+writing vrt file 781084 finished.
+writing vrt file 781085 finished.
+writing vrt file 781086 finished.
+writing vrt file 781087 finished.
+writing vrt file 781088 finished.
+writing vrt file 781089 finished.
+writing vrt file 781090 finished.
+writing vrt file 781091 finished.
+writing vrt file 781092 finished.
+writing vrt file 781093 finished.
+writing vrt file 781094 finished.
+writing vrt file 781095 finished.
+writing vrt file 781096 finished.
+writing vrt file 781097 finished.
+writing vrt file 781098 finished.
+writing vrt file 781099 finished.
+writing vrt file 781100 finished.
+writing vrt file 781101 finished.
+writing vrt file 781102 finished.
+writing vrt file 781103 finished.
+writing vrt file 781104 finished.
+writing vrt file 781105 finished.
+writing vrt file 781106 finished.
+writing vrt file 781107 finished.
+writing vrt file 781108 finished.
+writing vrt file 781109 finished.
+writing vrt file 781110 finished.
+writing vrt file 781111 finished.
+writing vrt file 781112 finished.
+writing vrt file 781113 finished.
+writing vrt file 781114 finished.
+writing vrt file 781115 finished.
+writing vrt file 781116 finished.
+writing vrt file 781117 finished.
+writing vrt file 781118 finished.
+writing vrt file 781119 finished.
+writing vrt file 781120 finished.
+writing vrt file 781121 finished.
+writing vrt file 781122 finished.
+writing vrt file 781123 finished.
+writing vrt file 781124 finished.
+writing vrt file 781125 finished.
+writing vrt file 781126 finished.
+writing vrt file 781127 finished.
+writing vrt file 781128 finished.
+writing vrt file 781129 finished.
+writing vrt file 781130 finished.
+writing vrt file 781131 finished.
+writing vrt file 781132 finished.
+writing vrt file 781133 finished.
+writing vrt file 781134 finished.
+writing vrt file 781135 finished.
+writing vrt file 781136 finished.
+writing vrt file 781137 finished.
+writing vrt file 781138 finished.
+writing band 1 ...
+writing band 2 ...
+writing band 3 ...
+writing vrt finished.
+E:\turpan\west\west1\21.vrt created.
+ 
+Create .map file for you...
+E:\turpan\west\west1_combined\west1_zoom_21.map created.
+Now create Tiff file for you:
+Now time is:2025/11/24 18:19:38
+"C:\allmapsoft\geid\bin64\gdal_translate.exe" -of GTiff -co COMPRESS=JPEG -co TILED=YES -co BLOCKXSIZE=256 -co BLOCKYSIZE=256 -co PHOTOMETRIC=YCBCR -co BIGTIFF=YES -co TFW=YES -a_srs "C:\allmapsoft\geid\geotiff\4326.prj" -a_ullr 88.0815124511719 42.9943084716797 88.1827926635742 42.9180908203125 "E:\turpan\west\west1\21.vrt" "E:\turpan\west\west1_combined\west1_zoom_21.tif"
+Input file size is 75520, 56832
+0
+.
+.
+.
+10
+.
+.
+.
+20
+.
+.
+.
+30
+.
+.
+.
+40
+.
+.
+.
+50
+.
+.
+.
+60
+.
+.
+.
+70
+.
+.
+.
+80
+.
+.
+.
+90
+.
+.
+.
+100 - done.
+
+E:\turpan\west\west1_combined\west1_zoom_21.tif created.
+ 
+Now will create pyramid for tiff, please wait.
+Now time is:2025/11/24 18:52:44
+"C:\allmapsoft\geid\bin64\gdaladdo.exe"  -r average "E:\turpan\west\west1_combined\west1_zoom_21.tif"  2 4 8 16
+0
+.
+.
+.
+10
+.
+.
+.
+20
+.
+.
+.
+30
+.
+.
+.
+40
+.
+.
+.
+50
+.
+.
+.
+60
+.
+.
+.
+70
+.
+.
+.
+80
+.
+.
+.
+90
+.
+.
+.
+100 - done.
+
+tiff pyramid created.
+ 
+ 
+All operations finished!
+Now time is:2025/11/24 18:54:50

@@ -1,0 +1,50 @@
+# Large TIF files
+west1_zoom_21.tif
+*.tif
+*.TIF
+
+# Zip files
+west1_zoom_21_combine_log.zip
+*.zip
+*.ZIP
+
+# Data directories
+data/
+detections/
+test_detections/
+dl_detections/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files (if any)
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# Temporary files
+*.tmp
+*.temp
